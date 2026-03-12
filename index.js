@@ -71,12 +71,6 @@ ${telefones}`)
     }
 }
 
-// Easter egg - 3
-// "uma orquídea garça branca na língua das flores, simboliza a frase... “meus pensamentos irão te seguir em teus sonhos.” " 
-
-
-
-
 const enderecoEmpresa = new Endereco("SP", "São Paulo", "Avenida dos Desenhos", 2001)
 
 const telEmpresa1 = new Telefone("11", "3333-2001")
